@@ -1,0 +1,2 @@
+# OpenRGB4HelloWord
+为HelloWord修改的Windows平台的OpenRGB项目，删除其余硬件支持
